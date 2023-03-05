@@ -1,0 +1,4 @@
+food dilivary app
+
+step 1 make a navbar
+add in unorder list then aline it using flexbox
